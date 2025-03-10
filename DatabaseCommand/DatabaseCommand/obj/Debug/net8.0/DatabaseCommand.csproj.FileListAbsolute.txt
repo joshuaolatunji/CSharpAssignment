@@ -1,0 +1,14 @@
+C:\Users\joshua.olatunji\Desktop\DatabaseCommand\DatabaseCommand\bin\Debug\net8.0\DatabaseCommand.exe
+C:\Users\joshua.olatunji\Desktop\DatabaseCommand\DatabaseCommand\bin\Debug\net8.0\DatabaseCommand.deps.json
+C:\Users\joshua.olatunji\Desktop\DatabaseCommand\DatabaseCommand\bin\Debug\net8.0\DatabaseCommand.runtimeconfig.json
+C:\Users\joshua.olatunji\Desktop\DatabaseCommand\DatabaseCommand\bin\Debug\net8.0\DatabaseCommand.dll
+C:\Users\joshua.olatunji\Desktop\DatabaseCommand\DatabaseCommand\bin\Debug\net8.0\DatabaseCommand.pdb
+C:\Users\joshua.olatunji\Desktop\DatabaseCommand\DatabaseCommand\obj\Debug\net8.0\DatabaseCommand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshua.olatunji\Desktop\DatabaseCommand\DatabaseCommand\obj\Debug\net8.0\DatabaseCommand.AssemblyInfoInputs.cache
+C:\Users\joshua.olatunji\Desktop\DatabaseCommand\DatabaseCommand\obj\Debug\net8.0\DatabaseCommand.AssemblyInfo.cs
+C:\Users\joshua.olatunji\Desktop\DatabaseCommand\DatabaseCommand\obj\Debug\net8.0\DatabaseCommand.csproj.CoreCompileInputs.cache
+C:\Users\joshua.olatunji\Desktop\DatabaseCommand\DatabaseCommand\obj\Debug\net8.0\DatabaseCommand.dll
+C:\Users\joshua.olatunji\Desktop\DatabaseCommand\DatabaseCommand\obj\Debug\net8.0\refint\DatabaseCommand.dll
+C:\Users\joshua.olatunji\Desktop\DatabaseCommand\DatabaseCommand\obj\Debug\net8.0\DatabaseCommand.pdb
+C:\Users\joshua.olatunji\Desktop\DatabaseCommand\DatabaseCommand\obj\Debug\net8.0\DatabaseCommand.genruntimeconfig.cache
+C:\Users\joshua.olatunji\Desktop\DatabaseCommand\DatabaseCommand\obj\Debug\net8.0\ref\DatabaseCommand.dll

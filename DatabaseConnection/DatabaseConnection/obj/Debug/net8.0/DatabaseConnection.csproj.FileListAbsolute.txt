@@ -1,0 +1,4 @@
+C:\Users\joshua.olatunji\Desktop\DatabaseConnection\DatabaseConnection\obj\Debug\net8.0\DatabaseConnection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshua.olatunji\Desktop\DatabaseConnection\DatabaseConnection\obj\Debug\net8.0\DatabaseConnection.AssemblyInfoInputs.cache
+C:\Users\joshua.olatunji\Desktop\DatabaseConnection\DatabaseConnection\obj\Debug\net8.0\DatabaseConnection.AssemblyInfo.cs
+C:\Users\joshua.olatunji\Desktop\DatabaseConnection\DatabaseConnection\obj\Debug\net8.0\DatabaseConnection.csproj.CoreCompileInputs.cache

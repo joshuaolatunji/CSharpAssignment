@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joshua.olatunji\\Desktop\\InheritanceAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE788A88-5682-4264-9196-6339AB0E1126}|InheritanceAssignment\\InheritanceAssignment.csproj|c:\\users\\joshua.olatunji\\desktop\\inheritanceassignment\\inheritanceassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE788A88-5682-4264-9196-6339AB0E1126}|InheritanceAssignment\\InheritanceAssignment.csproj|solutionrelative:inheritanceassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE788A88-5682-4264-9196-6339AB0E1126}|InheritanceAssignment\\InheritanceAssignment.csproj|c:\\users\\joshua.olatunji\\desktop\\inheritanceassignment\\inheritanceassignment\\stackitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE788A88-5682-4264-9196-6339AB0E1126}|InheritanceAssignment\\InheritanceAssignment.csproj|solutionrelative:inheritanceassignment\\stackitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE788A88-5682-4264-9196-6339AB0E1126}|InheritanceAssignment\\InheritanceAssignment.csproj|c:\\users\\joshua.olatunji\\desktop\\inheritanceassignment\\inheritanceassignment\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE788A88-5682-4264-9196-6339AB0E1126}|InheritanceAssignment\\InheritanceAssignment.csproj|solutionrelative:inheritanceassignment\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StackItem.cs",
+              "DocumentMoniker": "C:\\Users\\joshua.olatunji\\Desktop\\InheritanceAssignment\\InheritanceAssignment\\StackItem.cs",
+              "RelativeDocumentMoniker": "InheritanceAssignment\\StackItem.cs",
+              "ToolTip": "C:\\Users\\joshua.olatunji\\Desktop\\InheritanceAssignment\\InheritanceAssignment\\StackItem.cs",
+              "RelativeToolTip": "InheritanceAssignment\\StackItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T15:30:53.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "C:\\Users\\joshua.olatunji\\Desktop\\InheritanceAssignment\\InheritanceAssignment\\Stack.cs",
+              "RelativeDocumentMoniker": "InheritanceAssignment\\Stack.cs",
+              "ToolTip": "C:\\Users\\joshua.olatunji\\Desktop\\InheritanceAssignment\\InheritanceAssignment\\Stack.cs",
+              "RelativeToolTip": "InheritanceAssignment\\Stack.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T15:29:57.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joshua.olatunji\\Desktop\\InheritanceAssignment\\InheritanceAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "InheritanceAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\joshua.olatunji\\Desktop\\InheritanceAssignment\\InheritanceAssignment\\Program.cs",
+              "RelativeToolTip": "InheritanceAssignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T15:27:09.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
